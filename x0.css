@@ -1,0 +1,27 @@
+
+.cell {
+		width: 80px;
+		height: 52px;
+		margin: auto;
+		border: 1px solid gray;
+		border-radius: 6px;
+		font-size: 30px;
+		text-align: center;
+	}
+#score {
+	color :blue ;
+	font-size: 30px;
+}
+#scoreX ,#score0 {
+	color :red ;
+	background-color: black;
+	font-size: 30px;
+}
+#btnRst {
+	width: 120px;
+	height:30px;
+}
+
+
+	
+
